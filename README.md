@@ -18,6 +18,12 @@ A full-stack hiring job portal built using **React**, **Clerk** for authenticati
 - **Backend**: Supabase
 - **Database**: Supabase PostgreSQL
 
+
+## Video Guide 🛠️
+
+https://github.com/user-attachments/assets/41bcd600-d4a6-46b4-969a-2a1103a04047
+
+
 ## Getting Started 🛠️
 
 Follow these steps to set up the project locally:
